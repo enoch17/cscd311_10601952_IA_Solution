@@ -1,0 +1,39 @@
+.box{
+    position:absolute;
+    top:25%;
+    left:35%;
+    width:250px;
+    height:140px;
+    /*border:thin solid #333333;*/
+    margin: auto;
+    background: transparent;
+}
+th{
+    font:normal 13px "High Tower Text";
+}
+tr{
+    font:normal 13px "High Tower Text";
+}
+button
+{
+    background: rgba(10,10,164,0.6);
+    border: none;
+    color:#fff;
+    height:25px;
+    width:230px;
+    border-radius:3px;
+}
+input[type="email"],input[type="password"]{
+    position: absolute;
+    left: 30%;
+    height:25px;
+    width:170px;
+    font:normal 13px "High Tower Text";
+}
+.MainBg{
+    background-image: url("img/Wallpaper2.jpg");
+    height:95vh;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+}

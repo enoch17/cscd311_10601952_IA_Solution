@@ -1,0 +1,29 @@
+*{
+    border: 1px green;
+}
+.class1{
+    background-color: #5a6268;
+    height: 10vh;
+}
+.class2{
+    background-color: gray;
+    height:100vh;
+}
+table, th, td {
+   border: 1px solid black;
+}
+tr{
+     font:normal 13px "High Tower Text";
+ }
+.buttonclass{
+    background-color: gray;
+    width: 139px;
+    height: 40px;
+    color: #c6c8ca ;
+    font:normal 16px "High Tower Text";
+}
+.UpperLabel
+{
+    color: #c6c8ca ;
+    font:normal 29px "High Tower Text";
+}
