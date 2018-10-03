@@ -65,7 +65,7 @@ if(isset($_POST['btnsub']))
                 </tr>
                 <tr>
                     <td>
-                        <button class="buttonclass" onclick="location.href='DeleteStudents.php'">Delete Students</button>
+                        <button class="buttonclass" onclick="location.href='AddUser.php'">Add User</button>
                     </td>
                 </tr>
             </table>
